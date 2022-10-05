@@ -1,6 +1,16 @@
+Como subir conteudo para o github
+
 git status
 git add .
 git status
 git commit -m "MENSAGEM"
 git status
 git push
+
+===========================
+
+Criar pasta no terminal
+
+mkdir (nome da pasta)
+
+
